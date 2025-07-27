@@ -16,13 +16,23 @@ this image shows every step of how to push the file to githhub
 
 
 
-this  is to display first and last 5 data in the dataset
+this  is to display first and last 5 data in the dataset and also it show the codes to import pandas as pd so any time we call it as pd and we had to save the dataset to the csv file
 
 <img width="662" height="521" alt="Screenshot 2025-07-26 171852" src="https://github.com/user-attachments/assets/75454b4d-3f97-45cc-bf07-0c9c124d4589" />
+
+
+
 <img width="671" height="343" alt="Screenshot 2025-07-26 171934" src="https://github.com/user-attachments/assets/8ec50637-5ef0-4aff-a1ea-ae6375645071" />
 
 
+this is the command of describe and there is the results
+
+
 <img width="680" height="387" alt="Screenshot 2025-07-26 172003" src="https://github.com/user-attachments/assets/45ee9afc-3372-46c0-80d0-9d4aaef88f70" />
+
+this was to know the null value in every column it was in the folder called cars_df as the data frame
+
+
 <img width="693" height="403" alt="Screenshot 2025-07-26 172028" src="https://github.com/user-attachments/assets/3e77129f-cc34-4a7e-9150-f8e5564259b4" />
 
 
